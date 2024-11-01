@@ -1,12 +1,10 @@
 npm run dev
 
-
 npm i react-bootstrap bootstrap
 
 npm i zustand react-router-dom axios jwt-decode react-hook-form yup @hookform/resolvers
 
 npm i --save node-sass
-
 
 npm i socket.io-client
 
